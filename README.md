@@ -1,75 +1,30 @@
-# Nuxt Minimal Starter
+# 📚 Scehedule Kuliah
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Project ini adalah **Scehedule Kuliah** yang dibangun menggunakan [Nuxt 3](https://nuxt.com/) dan [Tailwind CSS](https://tailwindcss.com/).  
+Tujuan aplikasi ini adalah untuk membantu mahasiswa mengelola **Todo List** dan melihat **Jadwal Kuliah** secara lebih rapi dan modern.
 
-## Setup
+---
 
-Make sure to install dependencies:
+## ✨ Fitur
+- 🏠 **Dashboard** menampilkan:
+  - Todo List terbaru
+  - Jadwal kuliah hari ini
+  - Jam & tanggal real-time
+- 📅 **Halaman Jadwal** (CRUD jadwal kuliah).
+- 📝 **Halaman Todo List** (CRUD todo list).
+- 📱 **Responsive Design** dengan Sidebar yang bisa toggle di mobile.
+- 🎨 **UI modern** dengan Tailwind CSS + Dark theme.
 
-```bash
-# npm
-npm install
+---
 
-# pnpm
-pnpm install
+## 🛠️ Teknologi
+- [Nuxt 3](https://nuxt.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- Node.js 18+
 
-# yarn
-yarn install
+## 👤 Author(Komting Informatika 24)
 
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+**Djaroephon Djohan Syuhada**  
+🎓 Universitas Ubudiyah Indonesia – Informatika  
+📧 Email: djaroephon@gmail.com  
+🌐 Portfolio: [https://djaroephon.netlify.app/](https://djaroephon.netlify.app/)
