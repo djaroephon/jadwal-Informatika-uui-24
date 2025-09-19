@@ -1,6 +1,6 @@
-# 📚 Scehedule Kuliah
+# 📚 Schedule Kuliah
 
-Project ini adalah **Scehedule Kuliah** yang dibangun menggunakan [Nuxt 3](https://nuxt.com/) dan [Tailwind CSS](https://tailwindcss.com/).  
+Project ini adalah **Schedule Kuliah** yang dibangun menggunakan [Nuxt 3](https://nuxt.com/) dan [Tailwind CSS](https://tailwindcss.com/).  
 Tujuan aplikasi ini adalah untuk membantu mahasiswa mengelola **Todo List** dan melihat **Jadwal Kuliah** secara lebih rapi dan modern.
 
 ---
