@@ -122,7 +122,7 @@ onMounted(async () => {
     L2Dwidget.init({
       model: { jsonPath: model[index] },
       display: { position: "left", width: 200, height: 400 },
-      mobile: { show: true }
+      mobile: { show: false }
     })
   }
   load()
@@ -131,6 +131,15 @@ onMounted(async () => {
 </script>
 
 <style scoped>
+
+@media (max-width: 768px) {
+  #live2d-container {
+    display: none;
+  }
+}
+
+
+
 .hover\:bg-dark-650:hover {
   background-color: rgba(30, 41, 59, 0.5);
 }
